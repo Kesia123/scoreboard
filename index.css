@@ -24,8 +24,7 @@ body {
     display:flex;
     flex-direction: column;
     align-items: center;
-    /*padding: 2px 5px 10px 5px;
-    margin: 2px 5px 10px 5px;*/
+    
 }
 .numbox{
     background-color: #0A0001;
